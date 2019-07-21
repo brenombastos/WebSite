@@ -1,2 +1,2 @@
 # WebSite
-My classRoom from Alura.
+My Alura class.
